@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+venv/
+.env
+*.env
+
+# Google Calendar tokens
+token.json
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VSCode / PyCharm config (optional)
+.vscode/
+.idea/
