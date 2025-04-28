@@ -1,6 +1,20 @@
 # 🤖 AI Calendar Assistant
 
-This project lets users schedule Google Calendar events using natural language.
+Schedule Google Calendar events with natural language.
+
+This project combines the power of LLMs, agent-based architecture, and modern web interfaces to allow users to type freeform event requests like:
+
+> “Lunch with Alex tomorrow at 1pm”
+
+And the system interprets, converts, and sends the request to a Fetch.ai autonomous agent, which (simulated or real) handles scheduling the event.
+
+---
+
+## 🌐 Live Demo (Optional)
+
+**Coming soon**: Hosted version on [Streamlit Cloud](https://streamlit.io/cloud)
+
+---
 
 Powered by:
 
